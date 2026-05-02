@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">20代キャリア診断ラボ OGP</title>
+  <desc id="desc">青と白を基調にした20代向け転職診断サイトのOGP画像</desc>
+  <rect width="1200" height="630" fill="#f7fbff"/>
+  <rect x="72" y="72" width="1056" height="486" rx="28" fill="#ffffff" stroke="#dbe7f5" stroke-width="4"/>
+  <circle cx="970" cy="155" r="70" fill="#e8f2ff"/>
+  <circle cx="1045" cy="240" r="42" fill="#ffead8"/>
+  <rect x="120" y="128" width="110" height="110" rx="24" fill="#1769e0"/>
+  <text x="175" y="199" text-anchor="middle" font-family="Arial, sans-serif" font-size="48" font-weight="800" fill="#ffffff">20</text>
+  <text x="120" y="305" font-family="Arial, sans-serif" font-size="58" font-weight="800" fill="#172033">20代キャリア診断ラボ</text>
+  <text x="120" y="374" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#5d6b82">第二新卒・20代向け無料転職診断</text>
+  <rect x="120" y="430" width="260" height="62" rx="12" fill="#ff7a1a"/>
+  <text x="250" y="471" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="800" fill="#ffffff">無料で診断</text>
+  <rect x="430" y="430" width="205" height="62" rx="12" fill="#e8f2ff"/>
+  <text x="532" y="471" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="800" fill="#1769e0">年収アップ</text>
+  <rect x="670" y="430" width="185" height="62" rx="12" fill="#e8f2ff"/>
+  <text x="762" y="471" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="800" fill="#1769e0">IT適性</text>
+</svg>
