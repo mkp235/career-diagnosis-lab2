@@ -1,6 +1,6 @@
 window.SITE_CONFIG = {
   siteName: "20代キャリア診断ラボ",
-  siteUrl: "https://example.pages.dev",
+  siteUrl: "https://career-diagnosis-lab2.mkp1x1t1.workers.dev/",
   defaultTitle: "20代キャリア診断ラボ｜第二新卒・20代向け無料転職診断",
   defaultDescription: "第二新卒・20代向けに、年収アップ可能性、未経験IT職種適性、退職理由、志望動機、面接回答を無料で診断できる静的Webツールです。",
   mainCareer: {
