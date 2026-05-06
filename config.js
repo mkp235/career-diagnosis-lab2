@@ -12,7 +12,7 @@ window.SITE_CONFIG = {
     primaryText: "第二新卒向けの無料相談を見てみる",
     primaryUrl: "https://px.a8.net/svt/ejp?a8mat=45EBHK+1PC0FM+3Y6M+66H9D",
     secondaryText: "未経験IT向けの選択肢を見てみる",
-    secondaryUrl: "https://af.moshimo.com/af/c/click?a_id=5510799&p_id=6722&pc_id=19209&pl_id=91852",
+    secondaryUrl: "https://af.moshimo.com/af/c/click?a_id=5536355&p_id=3833&pc_id=9465&pl_id=53274",
     note: "診断結果を整理する参考リンクです。必要な人だけ、内容や条件を確認してみてください。"
   },
   analytics: {
